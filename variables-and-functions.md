@@ -29,10 +29,10 @@ But this is a little bit too much to type every time for something thats importa
 (def add (fn (x y)
             (+ x y)))
 (defn add (x y)
-   (+ x y)))
+   (+ x y))
 ;; The overloaded def syntax...
 (def (add x y)
-   (+ x y)))
+   (+ x y))
 ```
 
 I'm particularly a fan of the overloaded `def` syntax because the funciton signature represents the calling syntax. You would call add with `(add 1 2)` which looks alot like the signature when you define it.
