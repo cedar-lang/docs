@@ -33,5 +33,6 @@ Awesome! We'll get into what all this means in the next sections. The next step 
 
 * Submit an [Issue](https://github.com/cedar-lang/cedar)
 * Tell me on twitter [@nickwanninger](https://twitter.com/nickwanninger)
+* Ask on \#cedar-lang on freenode
 * Send a pull request
 
